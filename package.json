@@ -1,0 +1,21 @@
+{
+  "name": "blossoms",
+  "displayName": "Blossoms",
+  "description": "",
+  "version": "0.0.2",
+  "engines": {
+    "vscode": "^1.89.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Blossoms",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Blossoms-color-theme.json"
+      }
+    ]
+  }
+}
