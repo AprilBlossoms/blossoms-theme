@@ -13,13 +13,14 @@
 ## Screenshots
 
 ### JavaScript
-![JavaScript Example](https://imgur.com/nbkMBcI)
+![JavaScript Example](https://raw.githubusercontent.com/AprilBlossoms/blossoms-theme/master/imgs/js.png)
 
 ### HTML
-![HTML Example](https://imgur.com/tsVyXNG)
+![HTML Example](https://raw.githubusercontent.com/AprilBlossoms/blossoms-theme/master/imgs/html.png)
 
 ### Python
-![Python Example](https://imgur.com/pKC7uYQ)
+![Python Example](https://raw.githubusercontent.com/AprilBlossoms/blossoms-theme/master/imgs/python.png)
+
 
 ## Installation
 
