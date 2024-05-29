@@ -13,13 +13,13 @@
 ## Screenshots
 
 ### JavaScript
-![JavaScript Example](imgs/js.png)
+![JavaScript Example](https://imgur.com/nbkMBcI)
 
 ### HTML
-![HTML Example](imgs/html.png)
+![HTML Example](https://imgur.com/tsVyXNG)
 
 ### Python
-![Python Example](imgs/python.png)
+![Python Example](https://imgur.com/pKC7uYQ)
 
 ## Installation
 
