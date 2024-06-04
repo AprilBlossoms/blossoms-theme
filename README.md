@@ -25,14 +25,14 @@
 ## Installation
 
 1. Open **Extensions** sidebar panel in VS Code. `View → Extensions`
-2. Search for `Dark Purple Neon Theme`
+2. Search for `Blossoms Dark Theme`
 3. Click **Install** to install it
 4. Click **Reload** to reload your editor
-5. Code > Preferences > Color Theme > **Dark Purple Neon Theme**
+5. Code > Preferences > Color Theme > **Blossoms Dark Theme**
 
 ## Usage
 
-After installation, you can easily switch to the Dark Purple Neon theme by going to the Command Palette (`Ctrl+Shift+P`), typing `Preferences: Color Theme`, and selecting **Dark Purple Neon Theme** from the list.
+After installation, you can easily switch to the Blossoms Dark theme by going to the Command Palette (`Ctrl+Shift+P`), typing `Preferences: Color Theme`, and selecting **Blossoms Dark Theme** from the list.
 
 ## Jinja Support
 
