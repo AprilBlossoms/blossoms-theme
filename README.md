@@ -59,3 +59,4 @@ If you would like to customize the theme to better suit your preferences, you ca
     // Add more customizations here...
   ]
 }
+```
