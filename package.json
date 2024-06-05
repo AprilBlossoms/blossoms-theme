@@ -2,8 +2,10 @@
   "name": "blossoms-dark-theme",
   "displayName": "Blossoms Dark Theme",
   "description": "A coloful theme with a dark purple background",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "publisher": "AprilMayCodes",
+  "icon": "icon.png",
+  "readme": "README.md",
   "repository": {
     "type": "git",
     "url": "https://github.com/AprilBlossoms/blossoms-theme"
@@ -13,7 +15,10 @@
     "dark theme",
     "purple",
     "purple theme",
-    "aprilmaycodes"
+    "aprilmaycodes",
+    "neon theme",
+    "dark neon",
+    "high contrast"
   ],
   "engines": {
     "vscode": "^1.89.0"
